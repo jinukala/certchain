@@ -1,0 +1,1 @@
+openssl req -x509 -newkey ed25519 -keyout key.pem -out cert.pem -sha256 -days 3650 -nodes -subj "/C=XX/ST=XX/L=HYD/O=XX/OU=XX/CN=kushwanth.certchain" -addext "authorityKeyIdentifier=keyid,issuer" -addext "basicConstraints=CA:FALSE" -addext "keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment"

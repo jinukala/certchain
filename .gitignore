@@ -1,0 +1,8 @@
+env/
+chainData/*.json
+__pycache__
+certificates/*.pdf
+*.pem
+*.pfx
+*.pdf
+.env
