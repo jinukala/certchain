@@ -22,7 +22,7 @@ pycparser==2.21
 pydantic==1.10.7
 pyHanko==0.18.1
 pyhanko-certvalidator==0.22.0
-pypdf==3.8.1
+pypdf==3.9.0
 pypng==0.20220715.0
 python-bidi==0.4.2
 python-dotenv==1.0.0
